@@ -1,0 +1,18 @@
+a = 10
+b = 5
+
+# Сложение
+addition = a + b
+print(f"Сумма a и b: {addition}")
+
+# Вычитание
+subtraction = a - b
+print(f"Разность a и b: {subtraction}")
+
+# Умножение
+multiplication = a * b
+print(f"Произведение a и b: {multiplication}")
+
+# Деление
+division = a / b
+print(f"Частное a и b: {division}")
